@@ -1,0 +1,6 @@
+{
+    "task": {
+      "program": ["src", "package.json", "package-lock.json", "tsconfig.json"],
+      "submit": "src/index.ts"
+    }
+  }
