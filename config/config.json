@@ -1,8 +1,8 @@
 {
-    "oj-path": "",
-    "default-contest-dirname-format": "{ContestID}",
-    "default-task-dirname-format": "{tasklabel}",
-    "default-test-dirname-format": "tests",
-    "default-task-choice": "inquire",
-    "default-template": "typescript"
+	"oj-path": "/root/.local/bin/oj",
+	"default-contest-dirname-format": "{ContestID}",
+	"default-task-dirname-format": "{tasklabel}",
+	"default-test-dirname-format": "tests",
+	"default-task-choice": "inquire",
+	"default-template": "typescript"
 }
