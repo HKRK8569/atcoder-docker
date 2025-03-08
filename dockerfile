@@ -10,8 +10,6 @@ RUN apt update && \
     python3.11 \
     pipx
 
-
-
 RUN npm install -g atcoder-cli
 
 RUN pipx install online-judge-tools
