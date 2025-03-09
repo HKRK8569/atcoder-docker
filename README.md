@@ -27,3 +27,23 @@ acc new {ID}
 ```
 
 http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/
+
+## テスト
+
+```
+cd {ID}
+
+cd {問題番号}
+
+npm run test
+```
+
+## 問題提出
+
+```
+cd {ID}
+
+cd {問題番号}
+
+npm run submit
+```
