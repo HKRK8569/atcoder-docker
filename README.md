@@ -20,7 +20,6 @@ oj login https://beta.atcoder.jp/
 ## 問題取得
 
 ```
-cd src
 
 acc new {ID}
 
