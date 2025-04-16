@@ -14,6 +14,8 @@ RUN npm install -g atcoder-cli
 
 RUN pipx install online-judge-tools
 
+RUN pipx install aclogin
+
 ENV PATH="/root/.local/bin:$PATH"
 
 
